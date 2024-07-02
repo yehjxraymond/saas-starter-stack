@@ -117,6 +117,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [Docs to Markdown Pro](https://docstomarkdown.pro) - Publish Google Docs as Markdown to GitHub/GitLab.
 - [Docs to WP Pro](https://docstowp.pro) - Publish SEO-optimized WordPress posts from Google Docs.
 - [Quotion](https://quotion.co) - Apple Notes to Blog in minutes, built-in web analytics, SEO-ready.
+- [Wisp](https://www.wisp.blog/) - Simple way to add blogs to existing site - comes with a delightful editor.
 
 ### Link Shortening
 - [Dub](https://dub.co) - Open-source link management.
